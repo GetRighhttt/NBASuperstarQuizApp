@@ -20,7 +20,7 @@
             android:id="@+id/tv_question_id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/what_country_does_this_flag_belong_to"
+            android:text="@string/starplayer"
             android:layout_margin="10dp"
             android:gravity="center"
             android:textColor="#363A43"
@@ -28,10 +28,10 @@
 
         <ImageView
             android:id="@+id/iv_image"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="175dp"
             android:layout_marginTop="10dp"
-            android:src="@drawable/ic_flag_of_argentina"
+            android:src="@drawable/lakers"
             android:contentDescription="@string/image"/>
 
         <LinearLayout

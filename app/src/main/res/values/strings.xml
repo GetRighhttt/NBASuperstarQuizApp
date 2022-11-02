@@ -13,4 +13,5 @@
     <string name="username">Username</string>
     <string name="your_score_is_9_out_of_10">Your Score is 9 out of 10</string>
     <string name="finish">FINISH</string>
+    <string name="starplayer">Who is the star player for this team:</string>
 </resources>
